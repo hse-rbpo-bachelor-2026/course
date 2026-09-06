@@ -1,0 +1,26 @@
+# Операционные системы
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Редакторы и среды разработки
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Временные и резервные файлы
+*.bak
+*.log
+*.tmp
+~$*
+
+# Локальные окружения и секреты
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
